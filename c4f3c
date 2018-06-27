@@ -1,0 +1,41 @@
+[33mcommit 35ab6ce2697d6b337392eaa3036deb4e3b106dab[m
+Author: casey <584310177@qq.com>
+Date:   Tue Jun 26 18:12:27 2018 +0800
+
+    delete test.txt
+
+[33mcommit e05cac55624a964cc7cd0590003d09e2b6537a2b[m
+Author: casey <584310177@qq.com>
+Date:   Tue Jun 26 18:11:13 2018 +0800
+
+    add test.txt
+
+[33mcommit c715abb239390eff126dc74cacdd9170568d0e27[m
+Author: casey <584310177@qq.com>
+Date:   Tue Jun 26 15:18:08 2018 +0800
+
+    git tracks changes
+
+[33mcommit 858083b8f86954bdaeb17e715763898eec5e24ec[m
+Author: casey <584310177@qq.com>
+Date:   Tue Jun 26 15:12:49 2018 +0800
+
+    add 3
+
+[33mcommit 74773c5d265ea5f15528f76b7b5997f231b9ee45[m
+Author: casey <584310177@qq.com>
+Date:   Tue Jun 26 13:03:26 2018 +0800
+
+    add distributed
+
+[33mcommit 1918bb80df70f6537a371ebabe3f9d6b98edfb16[m
+Author: casey <584310177@qq.com>
+Date:   Tue Jun 26 12:58:34 2018 +0800
+
+    add distributed
+
+[33mcommit c4f3cea72ea6bff5c989d41cd6e27a40f31a7772[m
+Author: casey <584310177@qq.com>
+Date:   Tue Jun 26 12:52:26 2018 +0800
+
+    wrote a readme file
